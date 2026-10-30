@@ -1,0 +1,17 @@
+key l
+key a
+key down
+pos turned
+key up
+pos e1
+shot e1
+key up
+pos e2
+shot e2
+key up
+pos e3
+shot e3
+key up
+pos e4
+shot e4
+dump e4

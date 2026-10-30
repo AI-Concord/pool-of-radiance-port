@@ -1,0 +1,7 @@
+key c
+shot a
+key down
+key down
+shot b
+key up
+shot c

@@ -1,0 +1,26 @@
+text FRIEND
+key enter
+key l
+key a
+chr 1 8f 30
+shopitems 2
+callp 22ec 053e
+shot b0
+key b
+shot b1
+key down
+shot b2
+key b
+shot b3
+key enter
+shot b4
+key esc
+shot b5
+key v
+key i
+shot b6
+key esc
+key esc
+key e
+shot b7
+dump end

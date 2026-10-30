@@ -1,0 +1,32 @@
+// Windows resources: icon, menu, and the manifest (per-monitor DPI, UTF-8 file names, Windows 10/11).
+#include <windows.h>
+#include "resource.h"
+IDI_APP ICON "PoolOfRadiance.ico"
+1 RT_MANIFEST "poolrad.manifest"
+IDM_MENU MENU
+BEGIN
+    POPUP "&Game"
+    BEGIN
+        MENUITEM "&Full Screen\tAlt+Enter", ID_FULLSCREEN
+        MENUITEM SEPARATOR
+        MENUITEM "E&xit\tAlt+F4", ID_QUIT
+    END
+    POPUP "&View"
+    BEGIN
+        MENUITEM "&Smooth Picture", ID_SMOOTH
+        MENUITEM "Sharp &Pixels", ID_SHARP
+    END
+    POPUP "&Debug"
+    BEGIN
+        MENUITEM "&Mark a Problem\tF12", ID_MARK
+        MENUITEM SEPARATOR
+        MENUITEM "&Record Sessions (from next start)", ID_RECORD
+        MENUITEM "&Show Recordings", ID_SHOW_RECORDINGS
+        MENUITEM SEPARATOR
+        MENUITEM "&Keep the 1988 Bugs (from next start)", ID_ORIGINAL
+    END
+    POPUP "&Help"
+    BEGIN
+        MENUITEM "&About Pool of Radiance", ID_ABOUT
+    END
+END

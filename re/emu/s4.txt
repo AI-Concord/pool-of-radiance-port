@@ -1,0 +1,13 @@
+shot wheel
+text FRIEND
+key enter
+shot menu
+key l
+key a
+shot game
+key a
+shot area
+key enter
+shot g2
+key v
+shot view

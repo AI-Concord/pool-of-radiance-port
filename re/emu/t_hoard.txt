@@ -1,0 +1,50 @@
+text FRIEND
+key enter
+key l
+key a
+key up
+key left
+key up
+key up
+key up
+key right
+key up
+key right
+key up
+key up
+key up
+key up
+key up
+key left
+key up
+key up
+key up
+key up
+key left
+key right
+key up
+key b
+key up
+
+shot enc
+dump enc
+pokea 49d6 5c4 1
+pokea 49d6 5c5 0
+poke 84e7 0
+poke 84d4 0
+key c
+shot h1
+key a
+shot h2
+key enter
+shot h3
+key esc
+key esc
+shot h4
+key p
+shot h5
+key e
+shot h6
+key y
+shot h7
+dump end

@@ -1,0 +1,24 @@
+text FRIEND
+key enter
+key l
+key a
+# ECL CLOCK 1 and CLOCK 5 (1D3F:2AC1): the game clock advanced. The original takes "operand number k" with k a
+# stack byte it never sets; the untouched original is given k = 1 (pokestk: the byte at BP-1 of the routine).
+pokea 49de 1df0 34
+pokea 49de 1df1 00
+pokea 49de 1df2 01
+poke 49ed f0
+poke 49ee b6
+pokestk 7 1
+callp 1d3f 2ac1
+dump c1
+pokea 49de 1df2 05
+poke 49ed f0
+poke 49ee b6
+pokestk 7 1
+callp 1d3f 2ac1
+dump c2
+key v
+shot v1
+key e
+dump end

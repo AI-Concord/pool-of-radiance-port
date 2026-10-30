@@ -1,0 +1,4 @@
+shot a
+key l
+key a
+shot b

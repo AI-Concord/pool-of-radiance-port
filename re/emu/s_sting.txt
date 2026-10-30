@@ -1,0 +1,11 @@
+# The developers' Alt-X in combat (2E2A:3B93): with START STING every enemy falls dead.
+cmdline STING
+shot c00
+key 0x2d00
+shot s1
+dump s1
+key q
+shot s2
+key q
+shot s3
+dump end

@@ -1,0 +1,12 @@
+text FRIEND
+key enter
+key l
+key a
+chr 1 8f 30
+chr 1 88 7
+chr 1 8a 3
+callp 34fb 42ed 0 3e8 ch1
+dump p1
+chr 2 90 9
+callp 34fb 42ed 0 7 ch2
+dump end

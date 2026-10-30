@@ -1,0 +1,11 @@
+text FRIEND
+key enter
+key l
+key a
+callp 2366 1a6f 1
+key v
+shot u1
+key e
+dump d1
+callp 2366 1a6f 0
+dump end

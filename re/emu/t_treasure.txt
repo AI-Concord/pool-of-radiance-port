@@ -1,0 +1,83 @@
+text FRIEND
+key enter
+key l
+key a
+pokea 49de 1d80 27
+pokea 49de 1d81 0
+pokea 49de 1d82 a
+pokea 49de 1d83 0
+pokea 49de 1d84 14
+pokea 49de 1d85 0
+pokea 49de 1d86 0
+pokea 49de 1d87 0
+pokea 49de 1d88 5
+pokea 49de 1d89 0
+pokea 49de 1d8a 1
+pokea 49de 1d8b 0
+pokea 49de 1d8c 0
+pokea 49de 1d8d 0
+pokea 49de 1d8e 0
+pokea 49de 1d8f 0
+pokea 49de 1d90 1
+pokea 49de 1d91 27
+pokea 49de 1d92 0
+pokea 49de 1d93 0
+pokea 49de 1d94 0
+pokea 49de 1d95 0
+pokea 49de 1d96 0
+pokea 49de 1d97 0
+pokea 49de 1d98 0
+pokea 49de 1d99 0
+pokea 49de 1d9a 0
+pokea 49de 1d9b 0
+pokea 49de 1d9c 0
+pokea 49de 1d9d 2
+pokea 49de 1d9e 0
+pokea 49de 1d9f 3
+pokea 49de 1da0 0
+pokea 49de 1da1 86
+pokea 49de 1da2 27
+pokea 49de 1da3 0
+pokea 49de 1da4 1
+pokea 49de 1da5 0
+pokea 49de 1da6 1
+pokea 49de 1da7 0
+pokea 49de 1da8 1
+pokea 49de 1da9 0
+pokea 49de 1daa 1
+pokea 49de 1dab 0
+pokea 49de 1dac 1
+pokea 49de 1dad 0
+pokea 49de 1dae 1
+pokea 49de 1daf 0
+pokea 49de 1db0 1
+pokea 49de 1db1 0
+pokea 49de 1db2 8a
+pokea 49de 1db3 27
+pokea 49de 1db4 0
+pokea 49de 1db5 0
+pokea 49de 1db6 0
+pokea 49de 1db7 0
+pokea 49de 1db8 0
+pokea 49de 1db9 0
+pokea 49de 1dba 0
+pokea 49de 1dbb 0
+pokea 49de 1dbc 0
+pokea 49de 1dbd 0
+pokea 49de 1dbe 0
+pokea 49de 1dbf 0
+pokea 49de 1dc0 0
+pokea 49de 1dc1 0
+pokea 49de 1dc2 0
+pokea 49de 1dc3 ff
+poke 49ed 80
+poke 49ee b6
+callp 1d3f 19b0
+dump t0
+callp 1d3f 19b0
+dump t1
+callp 1d3f 19b0
+dump t2
+callp 1d3f 19b0
+dump t3
+dump end

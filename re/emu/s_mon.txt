@@ -1,0 +1,59 @@
+movefx 6 49 7
+movefx 6 4c 8
+movefx 6 4d 9
+movefx 6 57 7
+movefx 6 40 8
+cmb 7 a1 4
+cmb 7 a3 1
+cmb 7 a5 3
+cmb 7 a2 2
+cmb 7 a4 1
+cmb 7 a6 4
+cmb 7 11b 30
+cmb 7 32 30
+cmb 7 2d 3c
+cmb 8 a1 4
+cmb 8 a3 1
+cmb 8 a5 3
+cmb 8 a2 2
+cmb 8 a4 1
+cmb 8 a6 4
+cmb 8 11b 30
+cmb 8 32 30
+cmb 8 2d 3c
+cmb 9 a1 4
+cmb 9 a3 1
+cmb 9 a5 3
+cmb 9 a2 2
+cmb 9 a4 1
+cmb 9 a6 4
+cmb 9 11b 30
+cmb 9 32 30
+cmb 9 2d 3c
+shot c00
+key q
+shot c01
+key q
+shot c02
+key q
+shot c03
+key q
+shot c04
+key q
+shot c05
+key q
+shot c06
+dump fight
+key n
+shot after1
+key enter
+shot after2
+key enter
+shot after3
+key enter
+shot after4
+key e
+shot after5
+key enter
+shot after6
+dump end

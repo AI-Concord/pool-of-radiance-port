@@ -1,0 +1,11 @@
+key l
+key a
+dump p0
+key up
+dump p1
+key up
+dump p2
+key left
+dump p3
+key up
+dump p4

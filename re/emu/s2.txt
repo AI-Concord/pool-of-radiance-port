@@ -1,0 +1,13 @@
+text FRIEND
+key enter
+shot 01
+key enter
+shot 02
+key enter
+shot 03
+key enter
+shot 04
+key enter
+shot 05
+key enter
+shot 06

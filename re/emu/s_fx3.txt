@@ -1,0 +1,167 @@
+callp 4592 0e52 cb7 55 30 0 1
+callp 4592 0e52 cb9 55 30 0 1
+callp 4592 0e52 cbb 55 30 0 1
+callp 4592 0e52 cb8 56 30 0 1
+callp 4592 0e52 cba 56 30 0 1
+callp 4592 0e52 cbc 56 30 0 1
+callp 4592 0e52 ch1 30 30 0 1
+callp 4592 0e52 ch2 30 30 0 1
+callp 4592 0e52 ch3 30 30 0 1
+callp 4592 0e52 ch4 30 30 0 1
+callp 4592 0e52 ch5 30 30 0 1
+callp 4592 0e52 ch6 30 30 0 1
+cmb 7 11b ff
+cmb 7 32 ff
+cmb 7 110 7f
+cmb 8 11b ff
+cmb 8 32 ff
+cmb 8 110 7f
+cmb 9 11b ff
+cmb 9 32 ff
+cmb 9 110 7f
+cmb a 11b ff
+cmb a 32 ff
+cmb a 110 7f
+cmb b 11b ff
+cmb b 32 ff
+cmb b 110 7f
+cmb c 11b ff
+cmb c 32 ff
+cmb c 110 7f
+poke 6e30 1
+shot c00
+key q
+shot c01
+dump c01
+key q
+shot c02
+key q
+shot c03
+dump c03
+key q
+shot c04
+key q
+shot c05
+dump c05
+key q
+shot c06
+dump c06
+key q
+shot c07
+key q
+shot c08
+key q
+shot c09
+key q
+shot c10
+key q
+shot c11
+key q
+shot c12
+key q
+shot c13
+key q
+shot c14
+key q
+shot c15
+key q
+shot c16
+key q
+shot c17
+key q
+shot c18
+key q
+shot c19
+key q
+shot c20
+key y
+key q
+shot e00
+key y
+key q
+shot e01
+key y
+key q
+shot e02
+key y
+key q
+shot e03
+key y
+key q
+shot e04
+key y
+key q
+shot e05
+key y
+key q
+shot e06
+key y
+key q
+shot e07
+key y
+key q
+shot e08
+key y
+key q
+shot e09
+key y
+key q
+shot e10
+key y
+key q
+shot e11
+key y
+key q
+shot e12
+key y
+key q
+shot e13
+key y
+key q
+shot e14
+key y
+key q
+shot e15
+key y
+key q
+shot e16
+key y
+key q
+shot e17
+key y
+key q
+shot e18
+key y
+key q
+shot e19
+key y
+key q
+shot e20
+key y
+key q
+shot e21
+key y
+key q
+shot e22
+key y
+key q
+shot e23
+key y
+key q
+shot e24
+key y
+key q
+shot e25
+key y
+key q
+shot e26
+key y
+key q
+shot e27
+key y
+key q
+shot e28
+key y
+key q
+shot e29
+dump end

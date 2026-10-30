@@ -1,0 +1,15 @@
+text FRIEND
+key enter
+key l
+key a
+key v
+shot v1
+key e
+chr 1 11b 5
+chr 2 10c 4
+chr 2 10d 0
+poke 49e2 9
+key v
+shot v2
+key e
+dump end

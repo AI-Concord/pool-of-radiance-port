@@ -1,0 +1,14 @@
+text FRIEND
+key enter
+key l
+key a
+poke 5376 5
+callp 3b80 02a4
+shot f1
+key enter
+shot f2
+key enter
+shot f3
+key enter
+shot f4
+dump end

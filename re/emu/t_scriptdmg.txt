@@ -1,0 +1,19 @@
+text FRIEND
+key enter
+key l
+key a
+callp 2366 20cc 3 ch1
+shot s1
+callp 2366 20cc 50 ch2
+shot s2
+callp 2366 20cc 2 ch3
+callp 2366 20cc 2 ch4
+callp 2366 20cc 2 ch5
+callp 2366 20cc 2 ch6
+callp 2366 20cc 2 ch1
+key enter
+shot s3
+callp 2366 20cc 2 ch2
+key enter
+shot s4
+dump end

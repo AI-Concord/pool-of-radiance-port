@@ -1,0 +1,15 @@
+text FRIEND
+key enter
+callp 1802 0040 5 3 2 4 41
+dump b1
+callp 1802 0175 0 18 0 28
+dump b2
+callp 1802 0105 0 18 f 3dec 537a
+dump b3
+poke 4a1e 0
+callp 1802 0040 7 9 3 2 42
+dump b4
+callp 1802 0105 1 2 5 3dec 537a
+dump b5
+poke 4a1e 1
+dump end

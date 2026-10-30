@@ -1,0 +1,4 @@
+text FRIEND
+shot a
+key enter
+shot b

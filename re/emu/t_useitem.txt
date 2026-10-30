@@ -1,0 +1,30 @@
+text FRIEND
+key enter
+key l
+key a
+item 1 1 3d 3
+item 1 1 3c 2
+item 1 1 3e 0
+key v
+key i
+shot u0
+key u
+shot u1
+key enter
+shot u2
+key enter
+shot u3
+key enter
+shot u4
+key v
+key i
+key u
+shot u5
+key enter
+key enter
+key enter
+shot u6
+key esc
+key esc
+key esc
+dump end

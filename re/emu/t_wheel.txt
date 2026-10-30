@@ -1,0 +1,15 @@
+text ZOMBIX
+key bksp
+key bksp
+key enter
+shot w1
+text friendly
+key bksp
+key bksp
+shot w2
+key enter
+shot w3
+key l
+key a
+shot g
+dump g

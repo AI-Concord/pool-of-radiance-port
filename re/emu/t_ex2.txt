@@ -1,0 +1,8 @@
+key l
+key a
+shot at_gate
+dump gate
+key right
+key right
+key left
+pos turn

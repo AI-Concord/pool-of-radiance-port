@@ -1,0 +1,47 @@
+text FRIEND
+key enter
+key l
+key a
+calls 1af8 0b0b 3dec 70c8 3dec 537a
+callp 1af8 0b25 3dec 537a 3dec 71c8 5
+callp 1af8 0b25 3dec 547c 3dec 71e0 ff
+calls 1af8 0b57 3dec 72c8 3dec 537a 3 4
+calls 1af8 0b57 3dec 7300 3dec 537a 0 ffff
+calls 1af8 0b57 3dec 7340 3dec 537a 30 4
+calls 1af8 0b57 3dec 7380 3dec 537a 5 64
+dump s1
+calls 1af8 0b98 3dec 70c8 3dec 547c
+calls 1af8 0b98 3dec 70c8 3dec 547c
+calls 1af8 0b98 3dec 70c8 3dec 547c
+calls 1af8 0b98 3dec 70c8 3dec 547c
+calls 1af8 0b98 3dec 70c8 3dec 547c
+calls 1af8 0b98 3dec 70c8 3dec 547c
+calls 1af8 0b98 3dec 70c8 3dec 547c
+calls 1af8 0b98 3dec 70c8 3dec 547c
+calls 1af8 0b98 3dec 70c8 3dec 547c
+calls 1af8 0b98 3dec 70c8 3dec 547c
+calls 1af8 0b98 3dec 70c8 3dec 547c
+calls 1af8 0b98 3dec 70c8 3dec 547c
+calls 1af8 0b98 3dec 70c8 3dec 547c
+calls 1af8 0b98 3dec 70c8 3dec 547c
+calls 1af8 0b98 3dec 70c8 3dec 547c
+calls 1af8 0b98 3dec 70c8 3dec 547c
+calls 1af8 0b98 3dec 70c8 3dec 547c
+calls 1af8 0b98 3dec 70c8 3dec 547c
+calls 1af8 0b98 3dec 70c8 3dec 547c
+calls 1af8 0b98 3dec 70c8 3dec 547c
+calls 1af8 0b98 3dec 70c8 3dec 547c
+calls 1af8 0b98 3dec 70c8 3dec 547c
+calls 1af8 0b98 3dec 70c8 3dec 547c
+dump s2
+callf 1af8 0c10 3dec 537a 3dec 547c
+callf 1af8 0c10 3dec 547c 3dec 537a
+callf 1af8 0c10 3dec 537a 3dec 537a
+callf 1af8 0c10 3dec 71c8 3dec 537a
+callf 1af8 0c10 3dec 537a 3dec 71c8
+calls 1af8 0c3b 3dec 73c8 41
+callp 1af8 1685 3dec 537a 3dec 74c8 10
+callp 1af8 1685 3dec 74c8 3dec 74c0 10
+callp 1af8 16a8 3dec 75c8 20 aa
+callp 1af8 16a8 3dec 75f0 0 bb
+dump end

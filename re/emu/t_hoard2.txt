@@ -1,0 +1,37 @@
+text FRIEND
+key enter
+key l
+key a
+chr 1 92 3
+chr 1 94 2
+callp 2090 0d09
+shot h1
+key a
+shot h2
+key g
+shot h3
+key s
+shot h4
+key j
+shot h5
+key k
+shot h6
+key g
+key k
+shot h7
+key j
+key esc
+shot h8
+key g
+shot h9
+key s
+shot h10
+key p
+shot h11
+key e
+shot h12
+key y
+shot h13
+key enter
+shot h14
+dump end

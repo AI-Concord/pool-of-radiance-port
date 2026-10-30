@@ -1,0 +1,27 @@
+text FRIEND
+key enter
+key l
+key a
+call 1709 0b66 e5f 0 a
+text AB
+key enter
+shot q1
+text 70000
+key enter
+text 65536
+key enter
+call 1709 0b66 e5f 0 e
+text 1234
+key enter
+call 1709 0b66 e5f 0 e
+text -5
+key enter
+shot q2
+text 42
+key enter
+calll 1709 0c3f
+calll 18ae 0000
+callp 18ae 006c 32
+calll 1709 0c3f
+shot q3
+dump end

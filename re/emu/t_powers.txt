@@ -1,0 +1,48 @@
+text FRIEND
+key enter
+key l
+key a
+key v
+key i
+shot a
+item 1 1 3e 83
+key r
+shot p0a
+key r
+shot p0b
+dump m0
+item 1 1 3e 80
+item 1 1 3d 08
+key r
+shot p1a
+key r
+shot p1b
+dump m1
+item 1 1 3e 84
+item 1 1 3d 37
+key r
+shot p2a
+key r
+shot p2b
+dump m2
+item 1 1 3e 87
+key r
+shot p3a
+key r
+shot p3b
+dump m3
+item 1 1 3e 89
+key r
+shot p4a
+key r
+shot p4b
+dump m4
+item 1 1 3e 83
+key r
+shot p5a
+key r
+shot p5b
+dump m5
+key esc
+key esc
+dump end

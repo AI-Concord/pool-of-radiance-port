@@ -1,0 +1,14 @@
+text FRIEND
+key enter
+key l
+key a
+callp 3941 1262 2
+shot n1
+callp 3941 1262 4
+callp 3941 1262 6
+shot n2
+dump d1
+key v
+shot n3
+key e
+dump end

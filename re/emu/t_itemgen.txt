@@ -1,0 +1,109 @@
+text FRIEND
+key enter
+key l
+key a
+callp 3fa9 1010 0 3dec 70c8
+callp 3fa9 1010 1 3dec 7108
+callp 3fa9 1010 2 3dec 7148
+callp 3fa9 1010 3 3dec 7188
+callp 3fa9 1010 4 3dec 71c8
+callp 3fa9 1010 5 3dec 7208
+callp 3fa9 1010 6 3dec 7248
+callp 3fa9 1010 7 3dec 7288
+callp 3fa9 1010 8 3dec 72c8
+callp 3fa9 1010 9 3dec 7308
+callp 3fa9 1010 a 3dec 7348
+callp 3fa9 1010 b 3dec 7388
+dump g00
+callp 3fa9 1010 c 3dec 70c8
+callp 3fa9 1010 d 3dec 7108
+callp 3fa9 1010 e 3dec 7148
+callp 3fa9 1010 f 3dec 7188
+callp 3fa9 1010 10 3dec 71c8
+callp 3fa9 1010 11 3dec 7208
+callp 3fa9 1010 12 3dec 7248
+callp 3fa9 1010 13 3dec 7288
+callp 3fa9 1010 14 3dec 72c8
+callp 3fa9 1010 15 3dec 7308
+callp 3fa9 1010 16 3dec 7348
+callp 3fa9 1010 17 3dec 7388
+dump g01
+callp 3fa9 1010 18 3dec 70c8
+callp 3fa9 1010 19 3dec 7108
+callp 3fa9 1010 1a 3dec 7148
+callp 3fa9 1010 1b 3dec 7188
+callp 3fa9 1010 1c 3dec 71c8
+callp 3fa9 1010 1d 3dec 7208
+callp 3fa9 1010 1e 3dec 7248
+callp 3fa9 1010 1f 3dec 7288
+callp 3fa9 1010 20 3dec 72c8
+callp 3fa9 1010 21 3dec 7308
+callp 3fa9 1010 22 3dec 7348
+callp 3fa9 1010 23 3dec 7388
+dump g02
+callp 3fa9 1010 24 3dec 70c8
+callp 3fa9 1010 25 3dec 7108
+callp 3fa9 1010 26 3dec 7148
+callp 3fa9 1010 27 3dec 7188
+callp 3fa9 1010 28 3dec 71c8
+callp 3fa9 1010 29 3dec 7208
+callp 3fa9 1010 2a 3dec 7248
+callp 3fa9 1010 2b 3dec 7288
+callp 3fa9 1010 2c 3dec 72c8
+callp 3fa9 1010 2d 3dec 7308
+callp 3fa9 1010 2e 3dec 7348
+callp 3fa9 1010 2f 3dec 7388
+dump g03
+callp 3fa9 1010 30 3dec 70c8
+callp 3fa9 1010 31 3dec 7108
+callp 3fa9 1010 32 3dec 7148
+callp 3fa9 1010 33 3dec 7188
+callp 3fa9 1010 34 3dec 71c8
+callp 3fa9 1010 35 3dec 7208
+callp 3fa9 1010 36 3dec 7248
+callp 3fa9 1010 37 3dec 7288
+callp 3fa9 1010 38 3dec 72c8
+callp 3fa9 1010 39 3dec 7308
+callp 3fa9 1010 3a 3dec 7348
+callp 3fa9 1010 3b 3dec 7388
+dump g04
+callp 3fa9 1010 3c 3dec 70c8
+callp 3fa9 1010 3d 3dec 7108
+callp 3fa9 1010 3e 3dec 7148
+callp 3fa9 1010 3f 3dec 7188
+callp 3fa9 1010 40 3dec 71c8
+callp 3fa9 1010 41 3dec 7208
+callp 3fa9 1010 42 3dec 7248
+callp 3fa9 1010 43 3dec 7288
+callp 3fa9 1010 44 3dec 72c8
+callp 3fa9 1010 45 3dec 7308
+callp 3fa9 1010 46 3dec 7348
+callp 3fa9 1010 47 3dec 7388
+dump g05
+callp 3fa9 1010 48 3dec 70c8
+callp 3fa9 1010 49 3dec 7108
+callp 3fa9 1010 4a 3dec 7148
+callp 3fa9 1010 4b 3dec 7188
+callp 3fa9 1010 4c 3dec 71c8
+callp 3fa9 1010 4d 3dec 7208
+callp 3fa9 1010 4e 3dec 7248
+callp 3fa9 1010 4f 3dec 7288
+callp 3fa9 1010 50 3dec 72c8
+callp 3fa9 1010 51 3dec 7308
+callp 3fa9 1010 52 3dec 7348
+callp 3fa9 1010 53 3dec 7388
+dump g06
+callp 3fa9 1010 54 3dec 70c8
+callp 3fa9 1010 55 3dec 7108
+callp 3fa9 1010 56 3dec 7148
+callp 3fa9 1010 57 3dec 7188
+callp 3fa9 1010 58 3dec 71c8
+callp 3fa9 1010 59 3dec 7208
+callp 3fa9 1010 5a 3dec 7248
+callp 3fa9 1010 5b 3dec 7288
+callp 3fa9 1010 5c 3dec 72c8
+callp 3fa9 1010 5d 3dec 7308
+callp 3fa9 1010 60 3dec 7348
+dump g07
+shot end
+dump end

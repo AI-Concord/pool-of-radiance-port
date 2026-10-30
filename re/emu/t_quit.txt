@@ -1,0 +1,12 @@
+text FRIEND
+key enter
+key l
+key a
+callp 1802 094a 5
+dump f1
+callp 1802 095d
+callp 1899 0104
+callp 1c7c 00ac
+callp 1c7c 0042 0
+dump f2
+callp 1899 0000

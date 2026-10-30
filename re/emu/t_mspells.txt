@@ -1,0 +1,29 @@
+text FRIEND
+key enter
+key l
+key a
+chr 2 11b 1
+chr 3 11b 2
+chrptr 6c95 2
+poke 681b 3e
+callp 41cf 2fd0
+shot m1
+dump m1
+chrptr 6c95 3
+poke 681b 3a
+callp 41cf 2e4d
+shot m2
+dump m2
+chrptr 6c95 3
+callp 41cf 2e4d
+dump m3
+chrptr 6c95 1
+poke 681b 3f
+callp 41cf 302a
+shot m4
+dump m4
+poke 681b 43
+callp 41cf 30a2
+shot m5
+callp 41cf 3092
+dump end

@@ -1,0 +1,8 @@
+text FRIEND
+key enter
+key l
+key a
+callp 2366 1df0 32 ch1
+callp 2366 1df0 5a ch2
+callp 2366 1df0 64 ch3
+dump end

@@ -1,0 +1,73 @@
+cmb 7 11b 3c
+cmb 7 32 3c
+cmb 8 11b 3c
+cmb 8 32 3c
+cmb 9 11b 3c
+cmb 9 32 3c
+cmb 10 11b 3c
+cmb 10 32 3c
+cmb 11 11b 3c
+cmb 11 32 3c
+cmb 12 11b 3c
+cmb 12 32 3c
+cmb 2 17 15
+cmb 2 18 15
+cmb 2 19 15
+cmb 2 1a 15
+cmb 2 1b 15
+cmb 2 1c 15
+cmb 4 17 01
+cmb 4 18 04
+cmb 4 19 2a
+cmb 4 1a 1c
+cmb 4 1b 26
+cmb 4 1c 02
+cmb 5 17 15
+cmb 5 18 15
+cmb 5 19 15
+cmb 5 1a 15
+cmb 5 1b 15
+cmb 5 1c 15
+poke 6e30 1
+shot c00
+key q
+shot c01
+key q
+shot c02
+key q
+shot c03
+key q
+shot c04
+key q
+shot c05
+key q
+shot c06
+key q
+shot c07
+key q
+shot c08
+key q
+shot c09
+key q
+shot c10
+key q
+shot c11
+key q
+shot c12
+key q
+shot c13
+key q
+shot c14
+key q
+shot c15
+key q
+shot c16
+key q
+shot c17
+key q
+shot c18
+key q
+shot c19
+key q
+shot c20
+dump end

@@ -1,0 +1,14 @@
+key l
+key a
+pos start
+key 8
+pos after8
+key 4
+pos after4
+key 6
+pos after6
+key 2
+pos after2
+key 6
+key 6
+pos turned

@@ -1,0 +1,75 @@
+callp 4592 0e52 cb7 53 30 0 1
+callp 4592 0e52 cb7 7f 30 0 1
+callp 4592 0e52 cb9 53 30 0 1
+callp 4592 0e52 cb8 54 30 0 1
+callp 4592 0e52 cba 54 30 0 1
+item 1 1 2f 76
+item 1 1 34 1
+item 2 1 2f 76
+item 2 1 34 1
+item 3 1 2f 76
+item 3 1 34 1
+item 4 1 2f 76
+item 4 1 34 1
+item 5 1 2f 76
+item 5 1 34 1
+item 6 1 2f 76
+item 6 1 34 1
+cmb 7 11b ff
+cmb 7 32 ff
+cmb 8 11b ff
+cmb 8 32 ff
+cmb 9 11b ff
+cmb 9 32 ff
+cmb a 11b ff
+cmb a 32 ff
+cmb b 11b ff
+cmb b 32 ff
+cmb c 11b ff
+cmb c 32 ff
+poke 6e30 1
+shot c00
+key q
+shot c01
+key q
+shot c02
+dump c02
+key q
+shot c03
+key q
+shot c04
+key q
+shot c05
+dump c05
+key q
+shot c06
+key q
+shot c07
+key q
+shot c08
+dump c08
+key q
+shot c09
+key q
+shot c10
+key q
+shot c11
+key q
+shot c12
+key q
+shot c13
+key q
+shot c14
+key q
+shot c15
+key q
+shot c16
+key q
+shot c17
+key q
+shot c18
+key q
+shot c19
+key q
+shot c20
+dump end

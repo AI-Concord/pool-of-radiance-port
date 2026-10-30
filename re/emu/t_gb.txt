@@ -1,0 +1,8 @@
+key l
+key b
+shot g_b
+key a
+shot area_b
+key enter
+key v
+shot view_b

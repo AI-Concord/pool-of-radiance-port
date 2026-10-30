@@ -1,0 +1,19 @@
+text FRIEND
+key enter
+key l
+key a
+item 1 1 39 fa
+key v
+key i
+shot a
+key h
+shot b
+item 1 2 39 c8
+key j
+shot c
+key home
+key j
+shot d
+key esc
+key esc
+dump end

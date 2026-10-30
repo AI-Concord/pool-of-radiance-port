@@ -1,0 +1,39 @@
+text FRIEND
+key enter
+key l
+key a
+chr 1 88 e8
+chr 1 89 03
+chr 1 8a 07
+chr 1 8c 63
+chr 1 94 ff
+chr 1 95 ff
+chr 2 8e 64
+chr 2 90 2d
+chr 3 92 01
+chr 4 88 99
+chr 4 89 99
+pokea 49de 1df0 28
+pokea 49de 1df1 00
+pokea 49de 1df2 00
+pokea 49de 1df3 00
+pokea 49de 1df4 21
+pokea 49de 1df5 00
+pokea 49de 1df6 00
+pokea 49de 1df7 28
+pokea 49de 1df8 00
+pokea 49de 1df9 01
+pokea 49de 1dfa 00
+pokea 49de 1dfb 4b
+pokea 49de 1dfc 00
+pokea 49de 1dfd 00
+poke 49ed f0
+poke 49ee b6
+callp 1d3f 1db1
+dump r1
+callp 1d3f 1db1
+dump r2
+key v
+shot v1
+key e
+dump end

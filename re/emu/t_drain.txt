@@ -1,0 +1,25 @@
+text FRIEND
+key enter
+key l
+key a
+callp 2a9f 2122 ch1 1
+shot d1
+key enter
+callp 2a9f 2122 ch2 2
+shot d2
+key enter
+chr 3 10c 1
+callp 2a9f 2122 ch3 1
+shot d3
+key enter
+poke 49f7 1
+callp 2a9f 2122 ch4 1
+shot d4
+key enter
+shot d5
+key enter
+poke 49f7 0
+key v
+shot d6
+key e
+dump end

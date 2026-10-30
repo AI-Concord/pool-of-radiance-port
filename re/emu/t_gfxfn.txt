@@ -1,0 +1,10 @@
+text FRIEND
+key enter
+call 1464 1509 1234
+call 1464 1509 ffff
+call 1464 1509 8001
+call 1464 1509 c003
+call 1464 1596 a7
+call 1464 1596 1
+call 1464 1596 f0
+dump end

@@ -1,0 +1,39 @@
+text FRIEND
+key enter
+key l
+key a
+# ECL SPELL 31, [6E7D], [6E7E] (1D3F:2C03) at script address B6F0, run three times: no one has Knock (31); the
+# first character has it in slot 5; only the second has it. The original never clears its "found" flag, so the
+# untouched original is given the clear flag it plainly means (pokestk: the byte at BP-8 of the routine about to
+# be called).
+pokea 49de 1df0 3b
+pokea 49de 1df1 00
+pokea 49de 1df2 1f
+pokea 49de 1df3 01
+pokea 49de 1df4 7d
+pokea 49de 1df5 6e
+pokea 49de 1df6 01
+pokea 49de 1df7 7e
+pokea 49de 1df8 6e
+poke 49ed f0
+poke 49ee b6
+pokestk e 0
+callp 1d3f 2c03
+dump s1
+chr 1 1c 1f
+poke 49ed f0
+poke 49ee b6
+pokestk e 0
+callp 1d3f 2c03
+dump s2
+chr 1 1c 0
+chr 2 1d 1f
+poke 49ed f0
+poke 49ee b6
+pokestk e 0
+callp 1d3f 2c03
+dump s3
+key v
+shot v1
+key e
+dump end

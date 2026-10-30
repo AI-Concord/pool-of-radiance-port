@@ -1,0 +1,11 @@
+text FRIEND
+key enter
+key l
+key a
+key e
+shot s0
+key s
+shot s1
+key b
+shot s2
+dump end

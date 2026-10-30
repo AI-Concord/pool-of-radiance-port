@@ -1,0 +1,7 @@
+shot a
+text BEWARE
+shot b
+key enter
+shot c
+key enter
+shot d

@@ -1,0 +1,10 @@
+text FRIEND
+key enter
+key l
+key a
+callp 3b80 06b3 1
+shot r1
+callp 3b80 06b3 0
+shot r2
+key enter
+dump end

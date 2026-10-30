@@ -1,0 +1,40 @@
+poke 6e2f 0
+cmb 7 84 81
+cmb 7 11b 1
+cmb 8 84 81
+cmb 8 11b 1
+cmb 9 84 81
+cmb 9 11b 1
+cmb 7 72 18
+cmb 7 11c 18
+cmb 8 72 1
+cmb 8 11c 1
+cmb 8 11 a
+cmb 9 72 1
+cmb 9 11c 1
+cmb 9 11 3
+shot c01
+key q
+shot c02
+key q
+shot c03
+key q
+shot c04
+key q
+shot c05
+key q
+shot c06
+dump fight
+key n
+shot after1
+key enter
+shot after2
+key enter
+shot after3
+key enter
+shot after4
+key e
+shot after5
+key enter
+shot after6
+dump end

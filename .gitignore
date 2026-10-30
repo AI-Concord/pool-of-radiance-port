@@ -1,0 +1,16 @@
+.DS_Store
+build/
+*.o
+re/emu/emu
+re/emu/out*/
+re/emu/run*/
+re/ghidra/proj/
+*.dSYM/
+port/emu_h
+re/emu/libtest
+re/emu/c_orig*/
+re/emu/c_port*/
+re/emu/sw.txt
+re/emu/snaps/*.snap
+re/emu/r_orig*/
+re/emu/r_port*/
